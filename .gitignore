@@ -1,0 +1,15 @@
+# Datasets (hosted externally)
+saudi_vehicle_dataset/
+buraydah/
+
+# YOLO / training caches and outputs
+*.cache
+runs/
+*.pt
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
