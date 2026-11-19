@@ -1,6 +1,6 @@
 # Datasets (hosted externally)
 saudi_vehicle_dataset/
-buraydah/
+*.zip
 
 # YOLO / training caches and outputs
 *.cache
